@@ -50,6 +50,7 @@
 
 ## ⚙️ My Custom Tools & Scripts
 - Hackerone Private Programs monitor: [Take a Look Here](https://github.com/Ibraheem7304/hackerone-private-programs-monitoring)
+- Github Scanner (Git_Phantom) : [Take a Look Here](https://github.com/Ibraheem7304/Git_Phantom)
 
 ---
 
