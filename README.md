@@ -3,36 +3,6 @@
 
 🎯 Junior Penetration Tester | 🐞 Bug Bounty Hunter | 🔐 Cybersecurity Enthusiast | 🎓 Computer Engineering Student
 
----
-
-## 👨‍💻 About Me
-
-- 🧑‍💻 Junior Penetration Tester with hands-on experience in real-world security testing
-- 🎯 Bug bounty hunter on platforms like HackerOne with over **150+ reports**
-- 🧠 Constant learner through CTFs (HackTheBox, TryHackMe) and cybersecurity communities
-- 📚 Currently studying Computer Engineering at Mansoura University (GPA: 3.65)
-
----
-
-## 🏆 Achievements
-
-- 🏆 Participated in the **CyberTalents CTF 2024**, solved **7 out of 8 challenges**.
-- 🏅 Top 20 (Ranked 17th) in Zinad CTF (Egypt) 2024.
-- ✅ Reported 30+ valid vulnerabilities through bug bounty programs.
-- 🔰 500+ Reputation Points on Bug Bounty platforms.
-
----
-
-## 🧠 Skills
-
-- ✅ Web Application Security Testing (Burp Suite, Subfinder, etc.)
-- 🌐 Network Penetration Testing (Nmap, custom tools)
-- 🔐 Strong grasp of OWASP Top 10 & real-world exploitation
-- 📑 Clear and structured vulnerability reporting
-- 🔄 Privilege escalation via CTFs & lab environments
-
----
-
 ## 🛠️ Tools & Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
