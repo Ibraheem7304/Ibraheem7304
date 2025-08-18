@@ -18,12 +18,6 @@
 
 ---
 
-## ⚙️ My Custom Tools & Scripts
-- Hackerone Private Programs monitor: [Take a Look Here](https://github.com/Ibraheem7304/hackerone-private-programs-monitoring)
-- Github Scanner (Git_Phantom) : [Take a Look Here](https://github.com/Ibraheem7304/Git_Phantom)
-
----
-
 ## 🔗 Find Me Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibraheem-elmougy)
