@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Ibraheem0x49 </h1>
+<h1 align="center">Hey 👋, I'm Ibraheem El-Mougy </h1>
 
 
-🎯 Junior Penetration Tester | 🐞 Bug Bounty Hunter | 🔐 Cybersecurity Enthusiast | 🎓 Computer Engineering Student
+🎯 Junior Penetration Tester | 🐞 Bug Bounty Hunter | 🎓 Computer Engineering Student
 
 ## 🛠️ Tools & Technologies
 
@@ -20,7 +20,7 @@
 
 ## 🔗 Find Me Elsewhere
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibraheem-elmougy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ibraheem0x49)
 [![HackerOne](https://img.shields.io/badge/HackerOne-%23212121.svg?&style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/ibraheem0x49)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ibraheem0x49)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Ibraheem0x49)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://Ibraheem0x49.medium.com)
