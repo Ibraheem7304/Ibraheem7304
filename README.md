@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ibraheem El-Mougy </h1>
 
 
-🎯 Junior Penetration Tester | 🐞 Bug Bounty Hunter | 🎓 Computer Engineering Student
+<h3 align="center">🎯 Junior Penetration Tester | 🐞 Bug Bounty Hunter | 🎓 Computer Engineering Student </h3>
 
 ## 🛠️ Tools & Technologies
 
